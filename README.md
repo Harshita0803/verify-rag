@@ -54,7 +54,7 @@ python app.py
 
 ## Citation
 
-If you use this framework, please cite the accompanying paper (link in repository).
+If you use this framework, please cite the accompanying paper: https://doi.org/10.5281/zenodo.21118817
 
 ## License
 
