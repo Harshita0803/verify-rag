@@ -54,7 +54,7 @@ python app.py
 
 ## Citation
 
-If you use this framework, please cite the accompanying paper: https://doi.org/10.5281/zenodo.21118817
+If you use this framework, please cite the accompanying paper: Sharma, H. (2026). Verify-RAG: A Human-in-the-Loop Framework for Citation and Groundedness Verification of Retrieval-Augmented Generation. Zenodo. https://doi.org/10.5281/zenodo.21118816
 
 ## License
 
